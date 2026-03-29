@@ -1,0 +1,98 @@
+[
+  {
+    "id": "dsa1",
+    "text": "Data Structures and Algorithms include arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, searching techniques, recursion, dynamic programming, and greedy methods."
+  },
+  {
+    "id": "dsa2",
+    "text": "Time and space complexity are used to evaluate algorithm performance. Big-O notation describes upper bounds."
+  },
+
+  {
+    "id": "pf1",
+    "text": "Programming fundamentals include variables, loops, conditionals, functions, data types, memory models, and error handling."
+  },
+
+  {
+    "id": "oop1",
+    "text": "Object-oriented programming concepts include classes, objects, inheritance, polymorphism, abstraction, and encapsulation."
+  },
+  {
+    "id": "oop2",
+    "text": "Design principles like SOLID help build scalable object-oriented systems."
+  },
+
+  {
+    "id": "os1",
+    "text": "Operating Systems manage processes, threads, scheduling algorithms, deadlocks, semaphores, memory allocation, virtual memory, paging, and synchronization."
+  },
+
+  {
+    "id": "dbms1",
+    "text": "DBMS includes ACID properties, indexing, SQL queries, normalization forms, transactions, isolation levels, and concurrency control."
+  },
+  {
+    "id": "dbms2",
+    "text": "Indexes improve query performance through B-trees or hashing structures."
+  },
+
+  {
+    "id": "cn1",
+    "text": "Computer Networks include TCP, UDP, IP routing, congestion control, HTTP, DNS, network layers, and packet transmission."
+  },
+
+  {
+    "id": "bd1",
+    "text": "Backend development involves REST APIs, authentication, databases, caching, queuing systems, and server-side business logic."
+  },
+  {
+    "id": "bd2",
+    "text": "Backend technologies include Node.js, Django, Flask, Express, and serverless architectures."
+  },
+
+  {
+    "id": "fd1",
+    "text": "Frontend development involves HTML, CSS, JavaScript, React, component-based UI, DOM manipulation, and responsive design."
+  },
+
+  {
+    "id": "sql1",
+    "text": "SQL covers joins, aggregations, filtering, grouping, indexing, stored procedures, triggers, and relational schema design."
+  },
+
+  {
+    "id": "sd1",
+    "text": "System design covers scalability, load balancing, caching, sharding, replication, consistency models, CAP theorem, and distributed systems."
+  },
+
+  {
+    "id": "git1",
+    "text": "Git is used for version control with commands like commit, push, pull, merge, and branching. CI/CD automates testing and deployments."
+  },
+
+  {
+    "id": "do1",
+    "text": "DevOps involves CI/CD, containerization, Docker, Kubernetes, infrastructure as code, monitoring, and automation pipelines."
+  },
+
+  {
+    "id": "ml1",
+    "text": "Machine learning includes supervised and unsupervised learning, classification, regression, neural networks, training, evaluation metrics, and feature engineering."
+  },
+
+  {
+    "id": "da1",
+    "text": "Data analytics involves descriptive analysis, data visualization, feature extraction, hypothesis testing, and predictive modeling."
+  },
+
+  {
+    "id": "ba1",
+    "text": "Business analytics focuses on business metrics, KPIs, forecasting, decision-making frameworks, and dashboard interpretation."
+  },
+
+  {
+    "id": "pm1",
+    "text": "Product management involves user research, feature prioritization, roadmapping, metrics, experimentation, and cross-functional communication."
+  }
+]
+
